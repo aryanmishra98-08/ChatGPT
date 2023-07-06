@@ -1,0 +1,9 @@
+#For reference reg how the config file looks like
+
+#Api Key
+api_key: 
+
+#Api parameters
+model: "gpt-3.5-turbo"
+max_tokens: 1000
+temperature: 0
