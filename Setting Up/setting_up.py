@@ -2,7 +2,7 @@ import yaml
 import openai
 
 #Reading values from yaml file
-with open('D:\Workspace\Chat GPT\ChatGPT Prompt Engineering for Developers\Setting Up\config\open_ai_config.yaml') as f:
+with open('D:\Knowledge Hub\Workspace\ChatGPT\Setting Up\config\open_ai_config.yaml') as f:
     value = yaml.safe_load(f)
 
 #Storing config values in variables
